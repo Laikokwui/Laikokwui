@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning web frameworks, AI Techniques
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like to play Minecraft
 
 [![@kokwei325's Holopin board](https://holopin.me/kokwei325)](https://holopin.io/@kokwei325)
