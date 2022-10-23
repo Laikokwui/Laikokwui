@@ -1,3 +1,5 @@
+[![@kokwei325's Holopin board](https://holopin.me/kokwei325)](https://holopin.io/@kokwei325)
+
 ### Hi there 👋
 
 <!--
@@ -19,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to play Minecraft
 
-[![@kokwei325's Holopin board](https://holopin.me/kokwei325)](https://holopin.io/@kokwei325)
