@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning web frameworks, AI Techniques
+- 🌱 I’m currently learning Angular Ionic
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to play Minecraft
 
