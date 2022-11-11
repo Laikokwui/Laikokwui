@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌱 I’m currently learning Angular Ionic
+-🔭 I’m currently working on mobile UI project using Angular Ionic
+- 🌱 I’m currently learning Angular Ionic and Laravel
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to play Minecraft
 
