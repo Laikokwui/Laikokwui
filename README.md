@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+I'm Lai Kok Wui,
+
 <!--
 **Laikokwui/Laikokwui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🔭 I’m currently working on mobile application using Angular Ionic Framework
-- 🌱 I’m currently learning Angular and Laravel
+-🔭 I’m currently working on to do list application using Ionic Framework with Angular
+- 🌱 I’m currently learning django and golang
 - 😄 Pronouns: he/him
-- How to reach me: kokwei325@gmail.com
 - ⚡ Fun fact: i like to play Minecraft
 
