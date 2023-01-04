@@ -8,5 +8,3 @@
 - 🌱 I’m currently learning django and golang
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to play Minecraft
-
-Happy New Year 2023!
