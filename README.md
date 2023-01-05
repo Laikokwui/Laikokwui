@@ -4,7 +4,7 @@
 
 ## I'm Lai Kok Wui,
 
-- 🔭 I’m currently working on to do list application using Ionic Framework with Angular
+- 🔭 I’m currently working on iOS & Android application using Ionic Framework with Angular
 - 🌱 I’m currently learning django and golang
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to play Minecraft
