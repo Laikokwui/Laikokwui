@@ -4,8 +4,7 @@
 
 ## I'm Lai Kok Wui,
 
-- 🔭 I’m currently working on Sharepoint Web Part using SPFx
-- 🔭 I’m currently working on iOS & Android application using Ionic Framework with Angular
-- 🌱 I’m currently learning SPFx and Vite
+- 🔭 I’m currently working on React Native and Angular Ionic Projects
+- 🌱 I’m currently learning Solana Program
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like to play Minecraft
