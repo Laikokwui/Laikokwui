@@ -21,9 +21,8 @@
 
 ### Hi there 👋
 
-## I'm Lai Kok Wui,
+## I'm Kok Wui,
 
-- 🔭 I’m currently working on React Native and Angular Ionic Projects
-- 🌱 I’m currently learning Solana Program
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i like to play Minecraft
+- :telescope: Working on Mobile Development using Ionic Framework and React Native
+- :seedling: Learning Object detection YOLOv5 using Python
+- :blue_car: Discover new tools and technologies
