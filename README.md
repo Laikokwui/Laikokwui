@@ -2,9 +2,9 @@
 <table border="0">
  <tr>
    <td>
-      <a href="https://www.holopin.io/@kokwei325">
+      <a href="https://holopin.me/kokwei325">
         <img
-          src="https://holopin.io/kokwei325"
+          src="https://holopin.me/kokwei325"
           alt="@kokwei325's Holopin board"
           width="700"
         />
