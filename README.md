@@ -23,10 +23,10 @@
 
 ## I'm Kok Wui,
 
-- :telescope: Working on Mobile Development using Ionic Framework and React Native
-- :seedling: Learning Object detection YOLOv5 using Python
+- :telescope: Working on Full stack web development
+- :seedling: Exploring backend development
 - :blue_car: Discover new tools and technologies
-- :speech_balloon: Ask me anything about Angular, AI
+- :speech_balloon: Ask me anything about React, Angular, Frontend Development and AI
 - 
 If you would like to support my work, you could buy me a coffee. It will be much appreciated. 
 
