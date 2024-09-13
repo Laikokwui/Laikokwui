@@ -1,3 +1,15 @@
+### 😎 Hello,　大家好~， みなさん,こにちわ~
+
+## I'm a software programmer, tech fanatic from Malaysia
+
+<a href="https://github.com/Laikokwui/Laikokwui">
+   <img src="https://komarev.com/ghpvc/?username=Laikokwui&color=green" alt="page views" />
+</a>
+<a href="https://github.com/Laikokwui?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Laikokwui?style=flat&logo=github">
+</a>
+
+##
 
 <table border="0">
  <tr>
@@ -17,11 +29,6 @@
     </td>
  </tr>
 </table>
-
-
-### Hi there 👋
-
-## I'm Kok Wui,
 
 - :telescope: Working on Mobile App Development (Android/iOS)
 - :seedling: Exploring Unity and Game developments
