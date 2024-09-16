@@ -56,7 +56,7 @@
    </td>
     <td>
       <a href="https://app.daily.dev/kokwei325">
-        <img src="https://api.daily.dev/devcards/79ca39994b55489f8b63eb7e66440792.png?r=g56" width="170" alt="Lai Kok Wui's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/v2/NAaXjoTzeUS4NLOyQ1aSA.png?type=default&r=u5y" width="170" alt="Lai Kok Wui's Dev Card"/>
       </a>
     </td>
  </tr>
