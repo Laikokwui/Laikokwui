@@ -1,6 +1,6 @@
-### 😎 Hello! Hai semua! 大家好！みなさん、こんにちは！
+### 😎 Hey! 大家好！みなさん、こんにちは！
 
-## I'm a software programmer and tech fanatic from Malaysia!
+## Software Programmer from Malaysia!
    
 <div align="center">
    <a href="https://github.com/Laikokwui/Laikokwui">
