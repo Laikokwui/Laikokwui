@@ -9,9 +9,6 @@
    <a href="https://github.com/Laikokwui?tab=followers">
        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Laikokwui?style=flat&logo=github">
    </a>
-   <a href="https://github.com/Laikokwui?tab=repositories">
-      <img src="https://badges.pufler.dev/repos/Laikokwui" alt="Total Repositories">
-   </a>
    <a href="https://github.com/Laikokwui">
       <img src="https://img.shields.io/github/stars/Laikokwui?style=flat&logo=github" alt="GitHub Stars">
    </a>
