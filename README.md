@@ -1,6 +1,6 @@
 ### 😎 Hey! 大家好！みなさん、こんにちは！
 
-## Tech Enthusiasts from Malaysia!
+## Tech Enthusiasm from Malaysia!
    
 <div align="center">
    <a href="https://github.com/Laikokwui/Laikokwui">
