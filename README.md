@@ -18,15 +18,6 @@
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laikokwui&theme=radical" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Laikokwui&show_icons=true&count_private=true&theme=radical&hide_title=true" width="360" />
-</div>
-
----
-
 ## 🏷️ Holopin & DevCard
 
 <div align="center">
