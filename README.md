@@ -105,9 +105,3 @@
 <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="170" />
 </a>
 
----
-
-## ⭐ Current Activities
-- Apple Music **Now Playing**
-- WakaTime **coding activity**  
-
