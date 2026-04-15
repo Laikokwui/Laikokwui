@@ -1,16 +1,15 @@
-# 😎 Hello! 你好！こんにちは！I'm
-
-### **Software Engineer from Malaysia **
-
-<div align="center">
-   <img src="https://komarev.com/ghpvc/?username=Laikokwui&color=green" />
+<div align="left">
    <img src="https://img.shields.io/github/followers/Laikokwui?style=flat&logo=github" />
    <img src="https://img.shields.io/github/stars/Laikokwui?style=flat&logo=github" />
+   <img src="https://img.shields.io/badge/Based%20in-Malaysia-FF4B4B?style=flat&logo=googlemaps&logoColor=white" />
+   <img src="https://komarev.com/ghpvc/?username=Laikokwui&color=green" />
 </div>
 
----
+# 😎 Hello! 你好！こんにちは！
 
-## 🚀 About Me  
+### I'm Software Engineer from Malaysia
+
+## About Me  
 - Love Claude Code, Codex, Qwen, AI Agents
 - Ex Mobile App Developer — **Android / iOS**
 - Working with **React, Next.js, Supabase**
